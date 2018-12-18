@@ -1,6 +1,6 @@
-token= NTE3MTI3NDkwMDEyMDUzNTA5.DuLy1A.fg2QInm31Log0lpxESY2E08p4dc
-owner= 351262573120716800 
-prefix= 1
+token= NTI0MDY4NjQ3OTU0NTQ2Njg4.DvitmA.6FMJC6Yo-lC81zjk-dizBWHHq6Y
+owner= 365696019629080576 
+prefix= pplay
 stayinchannel=true 
 songinstatus=false 
 
